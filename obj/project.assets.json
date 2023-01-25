@@ -3873,19 +3873,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ugope\\.nuget\\packages\\": {}
+    "C:\\Users\\Administrador\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ugope\\Documents\\GitHub\\MODULOAPI\\MODULOAPI.csproj",
+      "projectUniqueName": "C:\\Users\\hugo.santos\\Documents\\estudo\\MODULOAPI\\MODULOAPI.csproj",
       "projectName": "MODULOAPI",
-      "projectPath": "C:\\Users\\ugope\\Documents\\GitHub\\MODULOAPI\\MODULOAPI.csproj",
-      "packagesPath": "C:\\Users\\ugope\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ugope\\Documents\\GitHub\\MODULOAPI\\obj\\",
+      "projectPath": "C:\\Users\\hugo.santos\\Documents\\estudo\\MODULOAPI\\MODULOAPI.csproj",
+      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hugo.santos\\Documents\\estudo\\MODULOAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ugope\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
